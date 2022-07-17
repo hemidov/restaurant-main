@@ -1,0 +1,25 @@
+[
+    
+    {
+        "name": "Quzu Qovurma",
+        "id": 1,
+        "price":16.5,
+        "img":"https://upload.wikimedia.org/wikipedia/commons/f/fd/Food_Gechresh_Azerbaijan_03.jpg",
+        "categorie":"milli"
+
+    },
+    {
+        "name": "Toyuq Qara Tava",
+        "id": 2,
+        "price":4,
+        "img":"https://i.ytimg.com/vi/iwbkrXUaz60/maxresdefault.jpg",
+        "categorie":"milli"
+    },
+    {
+        "name": "Toyuq Com Sis",
+        "id": 3,
+        "price":12,
+        "img":"https://i.ytimg.com/vi/wWElC0jOkX8/mqdefault.jpg",
+        "categorie":"milli"
+    }
+]

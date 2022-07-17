@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.data>{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+.data>div{
+  width: 30%;
+}
+.data>div>img{
+  width: 300px;
+  height: 200px;
+  background-size: cover;
+}
